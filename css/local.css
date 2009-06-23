@@ -1,5 +1,27 @@
+body {
+  background-image: url('http://s3.amazonaws.com/s3.slackworks.com/images/IMG_3095-low.jpg');
+}
+
 .site .attribution {
   font-size: 60%;
   color: #666;
   margin-top: 0;
 }
+
+.matte .content {
+  background-color: white;
+  border: 1px solid black;
+  padding: 15px;
+  opacity: 0.95;
+}
+
+.matte {
+  background-color: white;
+  padding: 15px;
+  opacity: 0.9;
+}
+
+.title .name {
+  font-size: 150%;
+}  
+  
