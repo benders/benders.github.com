@@ -1,0 +1,12 @@
+/* body {
+  background-image: none;
+} */
+
+.site {
+  width: inherit;
+  margin: 1em;
+}
+
+ul.posts span {
+  color: black;
+}
