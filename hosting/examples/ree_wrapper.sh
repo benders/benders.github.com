@@ -1,0 +1,13 @@
+#!/bin/sh
+
+#
+# Settings from Evan Weaver
+# http://blog.evanweaver.com/articles/2009/04/09/ruby-gc-tuning/ 
+#
+RUBY_HEAP_MIN_SLOTS=500000 
+RUBY_HEAP_SLOTS_INCREMENT=250000 
+RUBY_HEAP_SLOTS_GROWTH_FACTOR=1 
+RUBY_GC_MALLOC_LIMIT=50000000 
+export RUBY_HEAP_MIN_SLOTS RUBY_HEAP_SLOTS_INCREMENT RUBY_HEAP_SLOTS_GROWTH_FACTOR RUBY_GC_MALLOC_LIMIT
+
+exec "/opt/ree/bin/ruby" "$@"
