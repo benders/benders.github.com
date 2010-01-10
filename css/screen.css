@@ -59,13 +59,24 @@ table {
 /*
 /*****************************************************************************/
 
+/* First a normal ul */
+ul {
+  margin-left: 2em;
+}
+ul li {
+  margin-bottom: 1em;
+}
+
 ul.posts {
+  margin: 0;
+  padding: 0;
   list-style-type: none;
   margin-bottom: 2em;
 }
 
   ul.posts li {
     line-height: 1.75em;
+    margin-bottom: 0;
   }
 
   ul.posts span {
