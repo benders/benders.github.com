@@ -1,0 +1,5 @@
+---
+layout: default
+title: So, you're a manager now?
+presentation_url: /manager/
+---
