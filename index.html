@@ -6,19 +6,15 @@ title: Nic Benders
 <div id="home">
   <h1>Talks and Presentations</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      {% if post.presentation_url %}
+    {% for post in site.categories.presentations %}
 	<li><span>({{ post.date | date_to_string }})</span> <a href="{{ post.presentation_url }}">{{ post.title }}</a></li>
-      {% endif %}
     {% endfor %}
   </ul>
 
   <h1>Blarg Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      {% if post.blarg_url %}
+    {% for post in site.categories.blarg %}
 	<li><span>({{ post.date | date_to_string }})</span> <a href="{{ post.blarg_url }}">{{ post.title }}</a></li>
-      {% endif %}
     {% endfor %}
   </ul>
   
