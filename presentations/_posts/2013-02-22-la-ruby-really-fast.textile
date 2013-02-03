@@ -1,0 +1,5 @@
+---
+layout: default
+title: LA Ruby 2013 - Making Your App Really, Really Fast
+presentation_url: http://www.larubyconf.com/workshops/11
+---
