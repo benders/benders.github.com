@@ -1,0 +1,5 @@
+---
+layout: default
+title: Get Your Ass to 1.9!
+presentation_url: /ruby-19/
+---
