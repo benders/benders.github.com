@@ -2,4 +2,39 @@
 layout: default
 title: So, you're a manager now?
 presentation_url: /manager/
+permalink: /manager/
 ---
+<div id="manager">
+  <h1>Video</h1>
+  <p>Available as <a href="http://www.sdruby.org/podcast/115">Episode 115</a> of the SD Ruby Podcast</p>
+
+  <h1>Slides</h1>
+  <p>
+    <div style="width:425px" id="__ss_11529676"><iframe src="http://www.slideshare.net/slideshow/embed_code/11529676?rel=0&amp;startSlide=2" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+    Note: These slides are purposely sparse, so they probably won't be of much use without the video.
+  </p>
+
+  <h1>Additional Reading</h1>
+  <ul class="posts">
+    <li><em>The Five Dysfunctions of a Team</em> by Patrick Lencioni</li>
+    <li>Bjorn's blog posts: <a href="http://bjornfreemanbenson.com/blog/2012/01/09/agile-personnel-development">Agile Personnel Development</a> and
+<a href="http://bjornfreemanbenson.com/blog/2012/02/13/managers-are-invisible">Managers Are Invisible</a></li>
+  </ul>
+
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_developer = 1; // developer mode is on
+      var disqus_shortname = 'nicbenders'; // required: replace example with your forum shortname
+      var disqus_url = 'http://nicbenders.com/manager/';
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Building a Hosting Environment, Correctly
+presentation_url: /hosting/
+permalink: /hosting/
 ---
-
 <div id="hosting">
   <h1>Video</h1>
   <p>Available as <a href="http://sdruby.org/podcast/77">Episode 077</a> of the SD Ruby Podcast</p>
@@ -37,7 +38,7 @@ title: Building a Hosting Environment, Correctly
     <li><a href="http://www.newrelic.com/">New Relic RPM</a></li>
     <li><a href="http://www.pingdom.com/">Pingdom</a></li>
   </ul>
-  
+
   <h1>Additional Reading</h1>
   <ul class="posts">
     <li><a href="http://www.percona.com/percona-lab.html">Percona MySQL builds</a></li>
@@ -47,6 +48,6 @@ title: Building a Hosting Environment, Correctly
     <li><a href="http://mmonit.com/monit/">Monit</a></li>
     <li><a href="http://god.rubyforge.org/">God</a></li>
   </ul>
-  
+
   <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/nicbenders/embed.js"></script><noscript><a href="http://disqus.com/forums/nicbenders/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>

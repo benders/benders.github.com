@@ -1,5 +1,0 @@
----
-layout: default
-title: Building a Hosting Environment, Correctly
-presentation_url: /hosting/
----
