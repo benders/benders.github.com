@@ -16,9 +16,9 @@ permalink: /hosting/
 
   <h1>Example files</h1>
   <ul class="posts">
-    <li><a href="examples/app.example.com.conf">conf.d/app.example.com.conf</a></li>
-    <li><a href="examples/00-passenger.conf">conf.d/00-passenger.conf</a></li>
-    <li><a href="examples/ree_wrapper.sh">ree_wrapper.sh</a></li>
+    <li><a href="/presentations/hosting-examples/app.example.com.conf">conf.d/app.example.com.conf</a></li>
+    <li><a href="/presentations/hosting-examples/00-passenger.conf">conf.d/00-passenger.conf</a></li>
+    <li><a href="/presentations/hosting-examples/ree_wrapper.sh">ree_wrapper.sh</a></li>
   </ul>
 
   <h1>References</h1>
