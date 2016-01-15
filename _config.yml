@@ -1,3 +1,8 @@
 markdown: kramdown
 kramdown:
   input: GFM
+
+exclude:
+  - "bin/"
+  - "Gemfile"
+  - "Gemfile.lock"
