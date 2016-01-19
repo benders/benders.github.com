@@ -10,8 +10,7 @@ permalink: /hosting/
 
   <h1>Slides</h1>
   <p>
-    <div style="width:425px;text-align:left" id="__ss_2862693"><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=hosting-key-100108113335-phpapp02&amp;stripped_title=building-your-own-rails-hosting-environment" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=hosting-key-100108113335-phpapp02&amp;stripped_title=building-your-own-rails-hosting-environment" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object></div>
-    <a href="http://s3.nicbenders.com.s3.amazonaws.com/files/Hosting.pdf">Slides as PDF (1.2M)</a> or as <a href="http://s3.nicbenders.com.s3.amazonaws.com/files/Hosting.key.zip">Keynote file (668K)</a>
+    <script async class="speakerdeck-embed" data-id="4ff4c70b782f3d002201d285" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
   </p>
 
   <h1>Example files</h1>
