@@ -3,6 +3,7 @@ layout: default
 title: Designing APIs with customers in mind
 presentation_url: /presentations/designing-apis/
 permalink: /presentations/designing-apis/
+comments: true
 ---
 
 # {{page.title}}
