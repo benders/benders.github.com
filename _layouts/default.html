@@ -42,6 +42,10 @@
 
   {{ content }}
 
+  {% if page.comments %}
+  {% include disqus.html %}
+  {% endif %}
+
   <div class="footer">
     <div class="contact">
       <p>
