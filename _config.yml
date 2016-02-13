@@ -8,3 +8,4 @@ exclude:
   - "Gemfile.lock"
 
 url: http://nicbenders.com
+future: true
