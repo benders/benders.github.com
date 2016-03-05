@@ -19,3 +19,4 @@ comments: true
 ## Links
 
 * [http://www.microservices.com/](http://www.microservices.com/)
+* Very good summary of my talk by Jan Stenberg at InfoQ -<br>[Don’t Think like an Engineer When Designing Microservices](http://www.infoq.com/news/2016/02/microservices-api)
