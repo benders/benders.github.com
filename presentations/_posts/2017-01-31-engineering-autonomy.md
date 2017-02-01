@@ -14,4 +14,5 @@ comments: true
 
 ## Links
 
-* [http://www.microservices.com/](http://www.microservices.com/)
+* [Microservices Summit](https://www.microservices.com/summit/)
+* [Martin Fowler's definition of Microservice Architecture](https://martinfowler.com/articles/microservices.html)
