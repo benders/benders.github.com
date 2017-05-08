@@ -14,5 +14,5 @@ comments: true
 
 ## Links
 
-* [Microservices Summit](https://www.microservices.com/summit/)
+* [Video, slides and transcript at Microservices.com](https://www.microservices.com/talks/engineering-autonomy-age-microservices-nic-benders/)
 * [Martin Fowler's definition of Microservice Architecture](https://martinfowler.com/articles/microservices.html)
