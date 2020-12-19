@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.3.3'
+ruby '2.7.1'
 
-gem 'github-pages', '117'
+gem 'github-pages', '209'
 gem 'jekyll-docs'
