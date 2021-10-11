@@ -9,3 +9,6 @@ exclude:
 
 url: http://nicbenders.com
 future: true
+
+plugins:
+  - jekyll-feed
