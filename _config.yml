@@ -12,3 +12,9 @@ future: true
 
 plugins:
   - jekyll-feed
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "bin"
+  - "README.md"
